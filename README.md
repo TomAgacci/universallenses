@@ -2,7 +2,7 @@ License Public Domain
 UNIVERSAL_LENS_RANGES
     Sphere D
         range_A_to_B: [-12.00, +10.00]
-        description": Full universal range for myopia (negative) and hyperopia (positive).
+        description: Full universal range for myopia (negative) and hyperopia (positive).
    
 
     Cylinder D
